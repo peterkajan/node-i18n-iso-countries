@@ -100,7 +100,7 @@
     "madge": "3.4.4",
     "istanbul": "0.4.5"
   },
-  "main": "entry-node",
+  "main": "index",
   "browser": "index",
   "engines": {
     "node": ">= 6"
